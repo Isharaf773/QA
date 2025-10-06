@@ -1,0 +1,7 @@
+### Create a new task
+POST http://localhost:8080/api/tasks
+Content-Type: application/json
+
+{
+  "title": "Create the Controller"
+}
